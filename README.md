@@ -76,13 +76,6 @@ Your **Quick Dashboard** highlights:
 
 ---
 
-## 💬 Quote
-
-> “SEO is a race, not a sprint. It’s about building trust, credibility, and authority over time.”  
-> — **Neil Patel**
-
----
-
 ## 🧠 Vision
 
 We’re on a mission to make **SEO transparent, fast, and effortless** — combining AI intelligence with web performance analytics for **real human impact**.
@@ -99,8 +92,8 @@ We’re on a mission to make **SEO transparent, fast, and effortless** — combi
 ## ⚙️ Quick Setup
 
 ```bash
-git clone https://github.com/yourusername/seo-performance-analyzer.git
-cd seo-performance-analyzer
+git clone https://github.com/MainakVerse/SEO-Friendly.git
+cd SEO-Friendly
 npm install
 npm run dev
 ```
