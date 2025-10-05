@@ -12,6 +12,7 @@ Built with **Next.js (Frontend)**, **FastAPI (Backend)**, and **Playwright (Auto
 ---
 
 ## 🧩 Features
+<img width="1472" height="787" alt="image" src="https://github.com/user-attachments/assets/5de0590f-7b0d-4c4e-97cb-a51fc87e3669" />
 
 ### 🆓 Free Tier
 
