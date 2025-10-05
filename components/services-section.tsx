@@ -67,20 +67,7 @@ export function ServicesSection() {
                     <CardDescription className="leading-relaxed">{service.description}</CardDescription>
                   </CardHeader>
                   <CardContent>
-                    <div className="flex gap-2">
-                      <Input
-                        placeholder="Ask AI about this..."
-                        value={activeService === index ? question : ""}
-                        onChange={(e) => {
-                          setActiveService(index)
-                          setQuestion(e.target.value)
-                        }}
-                        className="text-sm"
-                      />
-                      <Button size="sm" variant="secondary">
-                        Ask
-                      </Button>
-                    </div>
+                   
                   </CardContent>
                 </Card>
               )
