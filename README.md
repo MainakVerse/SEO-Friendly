@@ -1,4 +1,5 @@
 # ⚡ SEO & Page Performance Analyzer
+<img width="1900" height="871" alt="image" src="https://github.com/user-attachments/assets/81f3b072-fd04-458a-92ab-ff42a23ace9d" />
 
 ---
 
