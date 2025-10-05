@@ -9,10 +9,14 @@
 
 Built with **Next.js (Frontend)**, **FastAPI (Backend)**, and **Playwright (Automation)** — this platform helps everyone from beginners to SEO experts understand and improve their website intuitively.
 
+<img width="1472" height="787" alt="image" src="https://github.com/user-attachments/assets/5de0590f-7b0d-4c4e-97cb-a51fc87e3669" />
 ---
 
 ## 🧩 Features
-<img width="1472" height="787" alt="image" src="https://github.com/user-attachments/assets/5de0590f-7b0d-4c4e-97cb-a51fc87e3669" />
+
+
+<img width="1480" height="838" alt="image" src="https://github.com/user-attachments/assets/7bf6f327-6c30-4774-8797-c4fbcd9a6540" />
+
 
 ### 🆓 Free Tier
 
