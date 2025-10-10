@@ -176,7 +176,7 @@ export function HeroSection() {
             </span>
           </h1>
           <p className="mb-8 text-xl leading-relaxed text-muted-foreground md:text-2xl lg:text-3xl text-pretty">
-            AI-Driven SEO and Page Analytics for Modern Websites
+            The AI-Driven SEO and Page Analytics for Modern Websites
           </p>
 
           <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
